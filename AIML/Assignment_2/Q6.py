@@ -1,0 +1,7 @@
+tuple1=(1,3,5,7,9)
+list1=list(tuple1)
+print(list1)
+tuple2=tuple(list1)
+print(tuple2)
+str1=str(tuple2)
+print(str1)
